@@ -8,8 +8,8 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontra alguns dos meus tra
 
 | Projeto | Descrição | Link/Demonstração |
 |---------|-----------|------------------|
-| **Convert - Conversor de Moedas** | Projeto que converte diferentes moedas para Reais (BRL), com input validado e resultado formatado. | [Acessar Projeto](https://projeto-convert-delta.vercel.app/) |
-| **Refund - Solicitação de Reembolso** | Sistema que permite cadastrar despesas, categorizar, remover e calcular o total de gastos dinamicamente. | [Acessar Projeto](https://projeto-refund-sepia.vercel.app/) |
+| **Convert - Conversor de Moedas** | Projeto que converte diferentes moedas para Reais (BRL), com input validado e resultado formatado. | <a href="https://projeto-convert-delta.vercel.app/" target="_blank">Acessar Projeto</a> |
+| **Refund - Solicitação de Reembolso** | Sistema que permite cadastrar despesas, categorizar, remover e calcular o total de gastos dinamicamente. | <a href="https://projeto-refund-sepia.vercel.app/" target="_blank">Acessar Projeto</a> |
 
 ---
 
